@@ -56,7 +56,7 @@ cd Hotel_management_system
 Create a MySQL database for the application:
 
 ```sql
-CREATE DATABASE hotel_management;
+CREATE DATABASE hotel_management;#This creates the database
 USE hotel_management;
 ```
 
